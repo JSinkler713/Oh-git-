@@ -15,9 +15,6 @@ node_modules/
 DS_STORE
 ```
 
-In a django app I would at least add 
-
-
 ### Second step - we are going to remove them from the cache
 At the top level of our directory we run
 ```
